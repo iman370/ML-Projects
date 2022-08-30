@@ -9,7 +9,7 @@ Used imputation to replace any missing values with the column mean.
 
 Libraries: TensorFlow, pandas
 
-Link: https://www.kaggle.com/code/iman1733/strokepredictionlc/notebook
+Link: https://www.kaggle.com/code/iman1733/strokepredictionlc
 
 ---
 # Decision Trees
