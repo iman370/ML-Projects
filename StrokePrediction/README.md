@@ -1,9 +1,19 @@
 # Stroke Prediction
+
+Making predictions on whether a person has had a stroke or not.
+
+Used imputation to replace any missing values with the column mean.
+
 ---
 # Linear Classification
 
+Libraries: TensorFlow, pandas
+
 Link: https://www.kaggle.com/code/iman1733/strokepredictionlc/notebook
 
-Used linear classification to make predictions on whether a person has had a stroke or not.
+---
+# Decision Trees
 
-Used imputation to replace any missing values with the column mean.
+Libraries: scikit-learn, pandas
+
+Link: https://www.kaggle.com/code/iman1733/strokepredictiondt
