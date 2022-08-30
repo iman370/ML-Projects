@@ -4,6 +4,8 @@ Making predictions on whether a person has had a stroke or not.
 
 Used imputation to replace any missing values with the column mean.
 
+Goal: I want to make predictions on this dataset using different machine learning models in order to find out which model would be best suited for binary classification.
+
 ---
 # Linear Classification
 
