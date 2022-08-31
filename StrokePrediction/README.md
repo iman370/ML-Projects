@@ -13,7 +13,7 @@ Libraries: TensorFlow, pandas
 
 Link: https://www.kaggle.com/code/iman1733/strokepredictionlc
 
-Accuracy: 96% 
+Accuracy: 95% 
 
 ---
 # Decision Trees
