@@ -1,5 +1,7 @@
 # Stroke Prediction
 
+Original Dataset: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
 Making predictions on whether a person has had a stroke or not.
 
 Used imputation to replace any missing values with the column mean.
