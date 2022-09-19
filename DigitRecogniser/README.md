@@ -11,3 +11,12 @@ Libraries: TensorFlow, pandas
 https://www.kaggle.com/iman1733/digitrecognisernn
 
 Accuracy: 97%
+
+--------
+
+# K-Nearest Neighbours
+
+
+--------
+
+# SVM
