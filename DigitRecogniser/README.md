@@ -21,7 +21,3 @@ Libraries: pandas, numpy, scikit-learn, scipy
 Link: https://www.kaggle.com/code/iman1733/digitrecogniserknn
 
 Accuracy: 97.0%
-
---------
-
-# SVM
